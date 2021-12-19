@@ -2,3 +2,5 @@ Link para download do Git: https://git-scm.com/downloads
 Link do GitHub: https://github.com/
 
 *O Git bash é um terminal extendido para otimizar o uso do Git.
+
+
